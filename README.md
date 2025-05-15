@@ -57,3 +57,37 @@ Antes de executar o código, você precisará:
 5.  Você será solicitado a inserir outro link. Para encerrar o programa, digite `fim` e pressione Enter.
 
 ## Exemplo de Uso
+
+Informe o link da notícia ou digite "fim" para encerrar: https://news.example.com/article1
+Texto da página obtido com sucesso!
+Resumo: Este artigo fala sobre um novo estudo que descobriu um aumento significativo na população de abelhas em áreas urbanas devido a jardins e telhados verdes. Os pesquisadores ficaram surpresos com a adaptabilidade das abelhas a ambientes urbanos.
+
+Principais pontos:
+
+Novo estudo revela aumento da população de abelhas em cidades.
+Causa principal: presença de jardins e telhados verdes.
+Surpreendente adaptabilidade das abelhas a áreas urbanas.
+Informe o link da notícia ou digite "fim" para encerrar: https://another-news.com/tech-update
+Texto da página obtido com sucesso!
+Resumo: A principal empresa de tecnologia lançou um novo smartphone com câmera aprimorada e bateria de longa duração. O preço inicial é de $799 e estará disponível na próxima semana.
+
+Principais pontos:
+
+Lançamento de novo smartphone por grande empresa de tecnologia.
+Destaques: câmera aprimorada e bateria duradoura.
+Preço inicial: $799.
+Disponibilidade: próxima semana.
+Informe o link da notícia ou digite "fim" para encerrar: fim
+
+
+## Observações
+
+* A qualidade do resumo pode variar dependendo da complexidade e da estrutura do texto da página web.
+* Certifique-se de que o link fornecido seja de uma página web acessível e contenha texto relevante para ser resumido.
+* O tempo de resposta pode depender da velocidade da sua conexão com a internet e da carga da API do Gemini.
+
+## Autor
+
+[Luiz]
+
+Sinta-se à vontade para contribuir com melhorias ou reportar problemas!
