@@ -88,6 +88,6 @@ Informe o link da notícia ou digite "fim" para encerrar: fim
 
 ## Autor
 
-[Luiz]
+[lcllima3012]
 
 Sinta-se à vontade para contribuir com melhorias ou reportar problemas!
